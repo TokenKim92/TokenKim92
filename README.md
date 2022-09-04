@@ -1,4 +1,4 @@
-# Hi, I'm Deokgeun
+# Hi, I'm Token Kim
 
 I'm an C/C++ Developer, but nowadays preparing to be a Front-End Developer
 <br/>
@@ -6,7 +6,7 @@ I'm an C/C++ Developer, but nowadays preparing to be a Front-End Developer
 ## Connect with me
 
 - <p>
-    <a href="https://www.linkedin.com/in/deokgeun-kim-9189ab247/[removed]" rel="nofollow noreferrer">
+    <a href="https://www.linkedin.com/in/deokgeun-kim-9189ab247/" rel="nofollow noreferrer">
       <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </img>
     </a>
   </p>
