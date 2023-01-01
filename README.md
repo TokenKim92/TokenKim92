@@ -1,6 +1,6 @@
 # Hi, I'm Token Kim
 
-A C/C++ developer, looking to start a career as a full-stack web developer
+A C/C++ developer, working in-depth as a front-end web developer to expand software knowledge
 <br/>
 
 ## Connect with me
