@@ -32,6 +32,22 @@ A C/C++ developer, working in-depth as a front-end web developer to expand softw
 </p>
 <br/>
 
+## Token Kim - Homepage
+
+This is a homepage that introduces me and shows my projects in a simple and intuitive way.
+
+<a href="https://tokenkim.de/" target="blank">
+  <img src="./imgs/tokenkim-homepage.png" alt="tokenkim-homepage"/>
+</a>
+
+## WindowBrush
+
+This is a main project around my ability for not only C++ but backend logic and UI.
+
+<a href="https://github.com/TokenKim92/Release-WindowBrush" target="blank">
+  <img src="./imgs/windowbrush.png" alt="windowbrush"/>
+</a>
+
 ## Interactive HTML5 Portfolio
 
 This project was implemented to show how a single page application (SPA) works with animation effects in HTML5. I use all my HTML5 projects as cover for each portfolio.
