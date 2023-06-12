@@ -10,7 +10,7 @@ A C/C++ developer, working in-depth as a front-end web developer to expand softw
       <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </img>
     </a>
   </p>
-- :mailbox: TokenKim92@gmail.com
+- :mailbox: token.kim@outlook.com
   <br/>
 
 ## My tech stack :books:
